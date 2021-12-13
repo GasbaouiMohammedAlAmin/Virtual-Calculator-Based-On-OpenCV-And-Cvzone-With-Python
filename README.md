@@ -6,4 +6,6 @@ install first this libraries:
 - Pip3 install cv2
 - Pip3 install cvzone
 - Pip3 install mediapipe 
+- after installing the libraries you can launch the program without any problems
+# Screenshot
 
