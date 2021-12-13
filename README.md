@@ -1,0 +1,2 @@
+# Virtual-Calculator-Based-On-OpenCV-And-Cvzone-With-Python
+the virtual calculator is above the live streaming from my camera usb , the program first detect my hand and in each frame calculate the distance between two finger  ,if the distance is lower than the specific length , it detected as a click i can write any arithmitic operation , when i click in the equals sign the result appears in the display section. i can clear the display section by pressing c button in the keyboard .
