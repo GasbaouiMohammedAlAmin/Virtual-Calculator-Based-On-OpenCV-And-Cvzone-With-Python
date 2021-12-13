@@ -8,4 +8,5 @@ install first this libraries:
 - Pip3 install mediapipe 
 - after installing the libraries you can launch the program without any problems
 # Screenshot
+![](imgvirtualCa.PNG)
 
